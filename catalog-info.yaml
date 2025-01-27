@@ -17,7 +17,7 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: demo-graphql
+  name: backstage-demo
   description: GraphQL Backend Plugin
 spec:
   type: graphql
